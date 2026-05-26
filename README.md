@@ -1,29 +1,21 @@
 ﻿# AI Automation ROI Tool
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Swift Tech Co.](https://img.shields.io/badge/Built%20by-Swift%20Tech%20Co.-gold)](https://swifttechco.com)
-[![Category](https://img.shields.io/badge/AI-Tool-blue)](https://swifttechco.com)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![AI Tool](https://img.shields.io/badge/AI-Tool-informational)](https://swifttechco.com) [![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech-Co.-gold)](https://swifttechco.com)
 
-**Full guide and live version:** [https://swifttechco.com/tools/ai-automation-roi-estimator](https://swifttechco.com/tools/ai-automation-roi-estimator)
+**Full guide:** [https://swifttechco.com/tools/ai-automation-roi-estimator](https://swifttechco.com/tools/ai-automation-roi-estimator)
 
 ---
 
-Standalone ROI calculation tool for AI automation projects. Input your process details and get a full financial model: annual savings, implementation cost, payback period, and 5-year net benefit. Useful for building business cases for AI investment internally or presenting to stakeholders.
+Financial model tool for AI automation projects. Input process details and get annual savings, implementation cost, payback period, and 5-year net ROI. Useful for building internal business cases or presenting to stakeholders before committing to an AI project.
 
-## What We Build at Swift Tech Co.
+**Languages:** Python, TypeScript
 
-**FinTech Platforms** — Payment gateways, neobanks, crypto exchanges, and financial dashboards
-**Quantitative Finance** — Algorithmic trading systems, quant strategies, and institutional-grade market analysis
-**Blockchain, Crypto and DeFi** — Decentralised finance systems, smart contracts, and on-chain analytics
-**Custom Software and Mobile Apps** — iOS, Android, cross-platform apps, and enterprise systems
-**Custom Web and E-Commerce** — Websites, Shopify, WooCommerce, and fully custom storefronts
-**SaaS Platforms and Business Automation** — Multi-tenant platforms, subscription billing, and AI-powered SaaS
-**API Integration and Enterprise Architecture** — Third-party APIs, microservices, and event-driven systems
-**AI Automation and Intelligent Workflows** — Chatbots, document processing, ML pipelines, and automation systems
-**Cloud Infrastructure and DevOps** — AWS, GCP, Kubernetes, Docker, CI/CD, and production DevOps
-**Cybersecurity and Compliance** — Penetration testing, security audits, SOC 2, PCI-DSS, GDPR
-**SEO and Digital Marketing** — Technical SEO, content strategy, paid media, and conversion optimisation
+**Live calculator:** [swifttechco.com/tools/ai-automation-roi-estimator](https://swifttechco.com/tools/ai-automation-roi-estimator)
 
 ---
 
-**[swifttechco.com](https://swifttechco.com)** | **[Book a Free Discovery Call](https://swifttechco.com/contact)**
+## Swift Tech Co.
+
+FinTech Platforms | Quantitative Finance | Blockchain and DeFi | Custom Software and Mobile Apps | SaaS Platforms | AI Automation | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
+
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
